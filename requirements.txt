@@ -1,0 +1,6 @@
+aiogram==3.7.0
+opencv-python-headless==4.10.0.84
+mediapipe==0.10.14
+numpy==1.26.4
+Pillow==10.4.0
+fpdf2==2.7.9
